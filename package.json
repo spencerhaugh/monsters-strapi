@@ -9,14 +9,17 @@
     "build": "strapi build",
     "strapi": "strapi"
   },
-  "devDependencies": {},
   "dependencies": {
     "@strapi/plugin-i18n": "4.5.5",
     "@strapi/plugin-users-permissions": "4.5.5",
     "@strapi/provider-upload-cloudinary": "4.5.5",
-    "@strapi/strapi": "4.5.5",
+    "@strapi/strapi": "4.17.1",
     "pg": "8.8.0",
-    "strapi-plugin-import-export-entries": "^1.18.0"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^5.3.4",
+    "strapi-plugin-import-export-entries": "^1.18.0",
+    "styled-components": "^5.3.11"
   },
   "author": {
     "name": "Spencer Haugh"
